@@ -1,3 +1,7 @@
+##User Interface
+
+![event_handling_practice](https://user-images.githubusercontent.com/72275107/235154507-7dcec4d1-a708-4c1f-84e5-a36a32b227c6.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
