@@ -1,3 +1,8 @@
+## User Interface
+
+![state_in_react](https://user-images.githubusercontent.com/72275107/235155159-107ee836-1e80-4238-a3dd-2119ffec7f09.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
